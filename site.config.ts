@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Blog',
-  domain: 'soloer.site',
+  domain: 'soloer.com',
   author: 'Soloer',
 
   // open graph metadata (optional)
